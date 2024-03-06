@@ -1,7 +1,5 @@
-
-That's great! Creating an expense tracker with React.js is a fantastic way to practice your skills and build something useful. Here's a prompt you can use to describe your GitHub repository:
-
 Expense Tracker App with React.js
+<hr>
 
 This GitHub repository hosts an Expense Tracker web application built using React.js.
 
